@@ -116,7 +116,7 @@ $DOWNLOAD_DIR/                             # Total: ~ 2.2 TB (download: 438 GB)
         uniref90.fasta
 ```
 
-`bfd/` is only downloaded if you download the full databasees, and `small_bfd/`
+`bfd/` is only downloaded if you download the full databases, and `small_bfd/`
 is only downloaded if you download the reduced databases.
 
 ### Model parameters
